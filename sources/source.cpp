@@ -1,3 +1,3 @@
-// Copyright 2019 Kirill <your_email>
+// Copyright 2019 Name <your_email>
 
 #include <header.hpp>
